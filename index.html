@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+      font-family: monospace;
+      text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <p id="hornokplease">Horn OK Please</p>
+    <script>
+      function center_align() {
+          var body = document.body,
+            html = document.documentElement;
+          var height = Math.max(body.scrollHeight, body.offsetHeight,
+            html.clientHeight, html.scrollHeight, html.offsetHeight);
+          var el = document.getElementById("hornokplease");
+          var text_height = el.scrollHeight;
+
+          var margin = (height - text_height) / 2;
+          el.style.marginTop = margin + "px";
+      }
+      window.onresize = center_align;
+      center_align();
+    </script>
+  </body>
+</html>
