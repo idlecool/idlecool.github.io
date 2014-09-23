@@ -1,1 +1,63 @@
-keybase verification
+==================================================================
+https://keybase.io/idlecool
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://sd.gs
+  * I am idlecool (https://keybase.io/idlecool) on keybase.
+  * I have a public key with fingerprint 1F3B AE01 4644 3AFC 6EC5  B266 C3A4 5A9F E27B 4162
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1f3bae0146443afc6ec5b266c3a45a9fe27b4162",
+            "host": "keybase.io",
+            "key_id": "c3a45a9fe27b4162",
+            "uid": "116c595a837c3bb4099b22ae633db800",
+            "username": "idlecool"
+        },
+        "service": {
+            "hostname": "sd.gs",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411500894,
+    "expire_in": 157680000,
+    "prev": "9567d38beb688244162cbcf31aaf54f1eb6286c231f2cf2c5f80cd28fa7bb31b",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkVtIFFEYx3e9a0g3CswUmsxEt2XuO7OioZiFIYTZi4bLnDNn1kl3Z50dV2XT
+bSmy8MFLCYGFXXywB1HLBKko08ISoSAyhMqC2iDDKAqS1M6IvQUHDud/fv/v+/58
+HcnRlijrRF9F74dgAbBOP/wCLOW7pkGQAJrcRDiDRA1auxTV60a6T1e9BuEkKIUB
+EiIplmdZRlIgjyAHaJ6HjMRykqgg2gFYiqcJG1Gt+U0HLgMkP7KrGtbww6XKWP0P
+X7/2QVE85EROEhgHZABgSVEENC0hnmFkIJCkCfqR7pU8CNOqXIugptUSzTYCqwEV
+InNms/U64Zftbj82+XTN0CAmnUS1YficpsNo8plIAwKudbMLqF4ZB8aGANL9quYl
+nBQmoaGa1SiWojiSFETWRqBGn6ojl2oSnIPHo5Gk2QYFcEmR4x0yIwAEeEGgWTMh
+BFBhKElSOFahsE4LPKQZSqEhPpwikFCmBUVyAMBQgDDj1Hk1wsnjMSW3GUR1eyWj
+XkdEc9J5684YizXKEhcbZe7MkpS46d8mR3bHr8Lh+Ow7n8SsY5HBxJq+toGSrJbH
+aY5tLw6nfTUcoaFF6sCpyNWC9pxnqYOZp3tmHvVNPhEW2Dj72zM7Nm9ZyhxOzQ9H
+frT1eLqPi1cS9r9qbo0t7r5xbmmyMFAY1//Z8iCFHcu2S/vetA5Mpo9ndF6ffbd6
+a6KqIqPhUEv+iQ1dt399nLcuzg/m9saELpWV5O3ZCLffX9GDetXZ5Js5ZXOvw5e/
+Jc5U/Ay6n3/3eWyhk+GOSmt3h+deSif3cnaq7lo7N7QS7RoNVRYfmSq60HS39GJ/
+aZjOWCgcR21HIyP9qU/Ttb2/04pmD1ryqsprtzbOjS3n+kaW/5DvR+O7+IS/
+=rA8t
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/idlecool
+
+==================================================================
