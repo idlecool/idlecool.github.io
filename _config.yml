@@ -15,10 +15,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Shiv Deepak
 email: shivdeepak@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  I am Shiv Deepak, founding engineer of HackerRank and a passionate Engineering Manager.
-  I am currently building a data engineering team at HackerRank and looking for passionate 
-  engineers who take pride in quality work.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://shiv.ink" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: idlecool
